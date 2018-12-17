@@ -1,0 +1,122 @@
+<div id="footer">
+			<footer>
+			<div class="container">
+				<div class="row-cols">
+					<div class="col-md-6 col-md-push-6 item text">
+					   <h3>FilmOnline</h3>
+					<p><strong>Xem phim Online</strong>, chất lượng hình ảnh rõ nét, tốc độ tải phim nhanh, xem phim 
+						không phải chờ đợi lâu. FilmOnline luôn cập nhật phim mới để mang cho các bạn những bộ phim hành động
+						võ thuật,phim chiếu rạp, các thể loại phim tâm lí, tình cảm cực lôi cuốn và hấp dẫn nhất.</p>
+					</div>
+					<div class="col-md-3 col-md-pull-6 col-sm-4 item">
+						<ul>
+							<li><a href="#">Phim chiếu rạp</a></li>
+							<li><a href="#">Phim lẻ</a></li>
+							<li><a href="#">Phim bộ</a></li>
+							<li><a href="#">Phim hành động</a></li>
+							<li><a href="#">Phim viễn tưởng</a></li>
+							<li><a href="#">Phim tâm lí</a></li>
+							<li><a href="#">Phim hài hước</a></li>
+						</ul>
+					</div>
+					<div class="col-md-3 col-md-pull-6 col-sm-4 item">
+						<ul>
+								<li><a href="#">Phim Mỹ</a></li>
+								<li><a href="#">Phim Hàn Quốc</a></li>
+								<li><a href="#">Phim HongKong</a></li>
+								<li><a href="#">Phim Thái lan</a></li>
+								<li><a href="#">Phim Việt Nam</a></li>
+								<li><a href="#">Thành Long</a></li>
+								<li><a href="#">black panther</a></li>
+						</ul>
+					</div>
+					<div class="col-md-12 col-sm-4 item social">
+						<a href="#"><i class="icon icon-social-facebook"></i></a>
+						<a href="#"><i class="icon icon-social-twitter"></i></a>
+						<a href="#"><i class="icon icon-social-snapchat"></i></a>
+						<a href="#"><i class="icon icon-social-instargram"></i></a>
+
+					</div>
+					</div>
+						<p class="copyright">FilmOnline@2018</p>
+						</div>
+			</footer>
+		</div>
+        .footer{
+	background-color:rgb(27, 26, 26);
+	padding: 50px;
+	color: white ;
+}
+footer{
+	display:block;
+}
+@media (min-width:1200px) {
+	.container {
+	  width:1170px;
+	}
+  }
+  
+  @media (min-width:992px) {
+	.container {
+	  width:970px;
+	}
+  }
+  
+  @media (min-width:768px) {
+	.container {
+	  width:750px;
+	}
+  }
+  
+  .container {
+	padding-right:15px;
+	padding-left:15px;
+	margin-right:auto;
+	margin-left:auto;
+  }
+  @media (min-width:992px) {
+	.col-md-push-6 {
+	  left:50%;
+	}
+  }
+  
+  @media (min-width:992px) {
+	.col-md-6 {
+	  width:50%;
+	}
+  }
+  
+  @media (min-width:992px) {
+	 .col-md-6{
+	  float:left;
+	}
+  }
+  
+  .col-md-6 {
+	position:relative;
+	min-height:1px;
+	padding-right:15px;
+	padding-left:15px;
+  }
+  .col-md-3{
+	  float:left;
+  }
+  @media (min-width:768px) {
+	.col-sm-4 {
+	  width:33.33333333%;
+	}
+  }
+  
+  @media (min-width:768px) {
+	  .col-sm-4{
+	  float:left;
+	}
+  }
+  
+   .col-md-3, .col-md-4 {
+	position:relative;
+	min-height:1px;
+	padding-right:15px;
+	padding-left:15px;
+  }
+  
